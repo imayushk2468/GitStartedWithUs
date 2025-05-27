@@ -258,3 +258,6 @@ background-color: red;
 #pixel-art-container .cell:nth-child(33) {
   background-color: rgb(154, 64, 141);
 }
+#pixel-art-container .cell:nth-child(361) {
+      background-color: rgb(15, 02, 05);
+  }  
